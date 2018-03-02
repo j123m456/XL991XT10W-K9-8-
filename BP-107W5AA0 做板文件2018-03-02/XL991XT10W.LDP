@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\研发项目\无线充电\无线充电方案\国产无线充电方案\芯狼\XL991XT10W  K9 水晶 新唐苹果8快充单线圈-\XL991XT10W  K9 水晶 新唐苹果8快充单线圈-\XL991XT10W.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=xl991xt10w-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=xl991xt10w-slotholes.txt|LayerPairs=gtl,gbl

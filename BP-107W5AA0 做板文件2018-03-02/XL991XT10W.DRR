@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: XL991XT10W.PcbDoc   2018/3/2  14:33:07
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : XL991XT10W-RoundHoles.TXT
+ASCII SlotHoles File : XL991XT10W-SlotHoles.TXT
+EIA File   : XL991XT10W.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          177              20.94 Inch (531.98 mm)
+T2        31.5mil (0.8001mm)       Slot           4                284.83 Inch (7234.73 mm)
+---------------------------------------------------------------------------
+Totals                                            181              305.78 Inch (7766.71 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
