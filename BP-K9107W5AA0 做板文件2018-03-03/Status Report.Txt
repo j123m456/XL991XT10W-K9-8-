@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [XL991XT10W.PrjPCB]
+   Generated File[XL991XT10W-RoundHoles.TXT]
+   Generated File[XL991XT10W-SlotHoles.TXT]
+   Generated File[XL991XT10W.DRL]
+   Generated File[XL991XT10W.LDP]
+   Generated File[XL991XT10W.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:26:31 On 2018/3/3

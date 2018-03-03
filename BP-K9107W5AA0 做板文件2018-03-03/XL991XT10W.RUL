@@ -1,5 +1,5 @@
 DRC Rules Export File for PCB: F:\研发项目\无线充电\无线充电方案\国产无线充电方案\芯狼\XL991XT10W  K9 水晶 新唐苹果8快充单线圈-\XL991XT10W  K9 水晶 新唐苹果8快充单线圈-\XL991XT10W.PcbDoc
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
